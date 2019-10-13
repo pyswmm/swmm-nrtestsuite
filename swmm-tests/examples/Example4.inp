@@ -118,14 +118,14 @@ Swale            SURFACE    36         0.0        0.24       1.0        5
 [LID_USAGE]
 ;;Subcatchment   LID Process      Number  Area       Width      InitSatur  FromImprv  ToPerv     Report File
 ;;-------------- ---------------- ------- ---------- ---------- ---------- ---------- ---------- -----------
-S1               InfilTrench      4       532        133        0          40         0          ".\lid_ITS1.txt"
-S1               RainBarrels      32      5          0          0          17         1          ".\lid_RBS1.txt"
-S4               Planters         30      500        0          0          80         0          ".\lid_BCS4.txt" 
-S5               PorousPave       1       232872     683        0          0          0          ".\lid_PPS5.txt"
-S5               GreenRoof        1       18400      136        0          0          0          ".\lid_BCS5.txt"
-Swale3           Swale            1       14374.80   45         0          0          0          ".\lid_VSS3.txt"
-Swale4           Swale            1       21780.00   45         0          0          0          ".\lid_VSS4.txt"
-Swale6           Swale            1       17859.60   45         0          0          0          ".\lid_VSS6.txt"
+S1               InfilTrench      4       532        133        0          40         0          "./lid_ITS1.txt"
+S1               RainBarrels      32      5          0          0          17         1          "./lid_RBS1.txt"
+S4               Planters         30      500        0          0          80         0          "./lid_BCS4.txt" 
+S5               PorousPave       1       232872     683        0          0          0          "./lid_PPS5.txt"
+S5               GreenRoof        1       18400      136        0          0          0          "./lid_BCS5.txt"
+Swale3           Swale            1       14374.80   45         0          0          0          "./lid_VSS3.txt"
+Swale4           Swale            1       21780.00   45         0          0          0          "./lid_VSS4.txt"
+Swale6           Swale            1       17859.60   45         0          0          0          "./lid_VSS6.txt"
 
 [OUTFALLS]
 ;;               Invert     Outfall    Stage/Table      Tide
