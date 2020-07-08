@@ -4,14 +4,15 @@
     "description": "Example using new EVENTS feature",
     "args": [
         "events_example.inp",
-        "events_example.rpt", 
+        "events_example.rpt",
         "events_example.out"
     ],
     "input_files": [
-        "events_example.inp"
+        "events_example.inp",
+        "events_example.dat"
     ],
     "output_files": {
-        "events_example.rpt": "swmm report", 
+        "events_example.rpt": "swmm report",
         "events_example.out": "swmm allclose"
     }
 }
