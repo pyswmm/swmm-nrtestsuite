@@ -1,3 +1,5 @@
 # swmm-nrtestsuite
 
-SWMM numerical regression test suite
+Numerical regression test suite for OWA/SWMM.
+
+Please see LICENSE to understand the rights granted to you.
