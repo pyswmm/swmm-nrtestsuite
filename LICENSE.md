@@ -1,8 +1,7 @@
 
 # Copyright Notice
 
-Copyright (c) 2018-2021 see CONTRIBUTORS. All rights reserved (in jurisdictions
-where applicable).
+Copyright (c) 2018-2021 see CONTRIBUTORS.
 
 
 # License Notice
