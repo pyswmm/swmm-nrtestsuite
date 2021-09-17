@@ -1,7 +1,8 @@
 
 # Copyright Notice
 
-Copyright (c) 2018-2021 see CONTRIBUTORS.
+Copyright (c) 2018-2021 see CONTRIBUTORS. Excluding material in the public 
+domain.
 
 
 # License Notice
