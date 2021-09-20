@@ -1,6 +1,9 @@
 
 # Copyright Notice
 
+This project contains material prepared by the U.S. Government not afforded
+copyright protection in the United States. Foreign copyrights may apply.
+
 Copyright (c) 2018-2021 see CONTRIBUTORS. Excluding material in the public 
 domain.
 
