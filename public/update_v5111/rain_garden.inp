@@ -46,7 +46,7 @@ RainGarden      	0.01      	0.1       	0.05      	0.05      	25        	OUTLET
 [INFILTRATION]
 ;;Subcatchment  	Suction   	Ksat      	IMD       
 ;;--------------	----------	----------	----------
-PitchedRoof     	3.0       	0.5       	4         
+PitchedRoof     	3.0       	0.5       	1.0         
 RainGarden      	110       	10        	0.25      
 
 [LID_CONTROLS]
